@@ -1,0 +1,20 @@
+table{
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 50px;
+    height: 125px;
+    width: 125px;
+    background-color: rgb(240, 107, 107);
+}
+#outputbox{
+    border: 2px solid black;
+    height: 40px;
+    background-color: rgb(68, 218, 31);
+}
+button{
+    margin-top: 40px;
+}
+body{
+    background-image:url(./albert.jpeg);
+
+}
